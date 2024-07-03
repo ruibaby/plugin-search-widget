@@ -8,12 +8,14 @@ metadata:
     "store.halo.run/app-id": "app-DlacW"
 spec:
   enabled: true
-  requires: ">=2.5.0"
+  requires: ">=2.17.0"
   author:
-    name: Halo OSS Team
+    name: Halo
     website: https://github.com/halo-dev
   logo: logo.svg
-  homepage: https://github.com/halo-dev/plugin-search-widget
+  homepage: https://www.halo.run/store/apps/app-DlacW
+  repo: https://github.com/halo-dev/plugin-search-widget
+  issues: https://github.com/halo-dev/plugin-search-widget/issues
   displayName: "搜索组件"
   description: "为 Halo 2.0 提供统一的搜索组件，方便主题端使用。"
   license:
